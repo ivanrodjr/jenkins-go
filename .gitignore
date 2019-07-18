@@ -1,0 +1,9 @@
+git data
+.env*
+!.env.sample
+.DS_Store
+
+# User-specific stuff
+/.idea/
+/nginx-data/
+
